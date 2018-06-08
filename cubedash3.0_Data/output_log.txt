@@ -1,0 +1,67 @@
+Initialize engine version: 5.6.4p2 (278fc6850ee0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     1124 MB
+    Driver:   24.20.100.6136
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\UNITY\projects\HowToMakeAVideoGame\cubedash3.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\UNITY\projects\HowToMakeAVideoGame\cubedash3.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\UNITY\projects\HowToMakeAVideoGame\cubedash3.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\UNITY\projects\HowToMakeAVideoGame\cubedash3.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\UNITY\projects\HowToMakeAVideoGame\cubedash3.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\UNITY\projects\HowToMakeAVideoGame\cubedash3.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\UNITY\projects\HowToMakeAVideoGame\cubedash3.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\UNITY\projects\HowToMakeAVideoGame\cubedash3.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.066 seconds
+Platform assembly: G:\UNITY\projects\HowToMakeAVideoGame\cubedash3.0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\UNITY\projects\HowToMakeAVideoGame\cubedash3.0_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.940429 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 21ac -> priority: 1 
+  Thread -> id: 11e8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.591766 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 400.
+Total: 0.297124 ms (FindLiveObjects: 0.030843 ms CreateObjectMapping: 0.021590 ms MarkObjects: 0.232867 ms  DeleteObjects: 0.011309 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.741459 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 437.
+Total: 0.827629 ms (FindLiveObjects: 0.088417 ms CreateObjectMapping: 0.081220 ms MarkObjects: 0.641027 ms  DeleteObjects: 0.014907 ms)
+
+Game Over
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.629748 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 437.
+Total: 0.846135 ms (FindLiveObjects: 0.093044 ms CreateObjectMapping: 0.086875 ms MarkObjects: 0.648224 ms  DeleteObjects: 0.015935 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.354728 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 509.
+Total: 0.861043 ms (FindLiveObjects: 0.111550 ms CreateObjectMapping: 0.082248 ms MarkObjects: 0.648224 ms  DeleteObjects: 0.017477 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.336897 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 310.
+Total: 1.564785 ms (FindLiveObjects: 0.076080 ms CreateObjectMapping: 0.112578 ms MarkObjects: 0.671870 ms  DeleteObjects: 0.702200 ms)
+
+Quit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
